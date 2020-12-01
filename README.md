@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# weather_app
-=======
 # Ma météo 🌥🌼
->>>>>>> cff59d35f4b96179923ccaaecd1fa26deeec526c
 Ma météo 🌥🌼 is a little application using API calls to diplay weather in a location.
 To use it, you just have to enter in the search bar, the name of the city
 and you will get the current weather in that city.
